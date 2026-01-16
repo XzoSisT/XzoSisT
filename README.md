@@ -50,7 +50,7 @@
 <a href="mailto:phat4725@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/LINKEDIN_ID/](https://www.linkedin.com/in/aittiphat-jankun-1646093a6/">
+<a href="linkedin.com/in/aittiphat-jankun-1646093a6">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
